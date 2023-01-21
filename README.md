@@ -15,9 +15,10 @@ Prepare the list from the each equation and assign in np.array
 end the program
 ## Program:
 ### python program to find the rank of a matrix
+```
 Developed by : S.Kishore
 Register number : 22008388
-```
+
 import numpy as np
 a = np.array([[1,2,3],[3,6,9]])
 b = np.linalg.matrix_rank(a)
